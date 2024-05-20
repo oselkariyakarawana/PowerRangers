@@ -9,6 +9,9 @@ public class Main {
         PowerRangers BlackRanger = new PowerRangers("Black", "Frog", "Gun");
         PowerRangers PinkRanger = new PowerRangers("Pink", "Snake", "Poison");
 
+        //comment
+        //hi batch 86
+
         System.out.println(RedRanger.color);
         System.out.println(RedRanger.helmet);
         System.out.println(RedRanger.weapon);
